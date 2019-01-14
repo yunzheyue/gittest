@@ -26,6 +26,7 @@ public class Main2Activity extends AppCompatActivity {
         Log.e("TAG", "master1");
         Log.e("TAG", "master2");
         Log.e("TAG", "branch1");
+        Log.e("TAG", "branch2");
 
         new Thread(){
             @Override
