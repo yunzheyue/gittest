@@ -24,6 +24,7 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         Log.e("TAG", "b2-1");
 
+        
         new Thread(){
             @Override
             public void run() {
