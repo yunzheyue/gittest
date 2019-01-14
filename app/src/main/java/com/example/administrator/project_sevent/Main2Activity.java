@@ -22,12 +22,7 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-        Log.e("TAG", "master");
-        Log.e("TAG", "master1");
-        Log.e("TAG", "master2");
-        Log.e("TAG", "branch1");
-        Log.e("TAG", "branch2");
-        Log.e("TAG", "branch3");
+        Log.e("TAG", "b2-1");
 
         new Thread(){
             @Override
